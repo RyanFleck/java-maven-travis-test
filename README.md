@@ -1,9 +1,8 @@
 # Maven Test
-Simple Maven project with Travis CI
 
 [![Build Status](https://travis-ci.com/RyanFleck/java-maven-travis-test.svg?branch=master)](https://travis-ci.com/RyanFleck/java-maven-travis-test)
 
-**This project was a success.** I was able to install Apache Maven, initialize a new Java project, utilize Maven to install dependencies, and push to souce control to run CI. 
+**This project was a success.** I was able to install Apache Maven, initialize a new Java project, utilize Maven to install dependencies, and push to souce control to run CI. Maven is being used for my current work with a new CRM, and may be used in the future for collaborative projects.
 
 ```bash
 # Compile to target, then run:
